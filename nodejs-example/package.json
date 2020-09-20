@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arturo lopez",
+  "license": "MIT",
+  "scripts": {
+	"start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

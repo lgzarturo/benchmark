@@ -1,0 +1,10 @@
+target/
+.venv/
+*.sqlite3
+.g8/
+.mvn/
+.idea/
+.venv/
+*.pyc
+__pycache__/
+*.lock

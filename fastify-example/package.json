@@ -1,0 +1,17 @@
+{
+  "name": "fastify-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arturo lopez",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.4.1",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
